@@ -1,0 +1,91 @@
+.container-banner {
+    width: 100%;
+    height: 400px;
+    position: relative; 
+    overflow: hidden;
+    object-position: 0% 50%;
+}
+
+.img-depoimento {
+  width: 100%;
+  object-fit: cover;
+}
+
+.img-fluid {   
+  max-width: 100%;
+  height: auto; 
+}
+
+#titulo {
+    color: #b18f69;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.col-auto {
+    background-color: #b18f69;
+    border: 1px solid #b0b0b0;
+    border-right: none;
+    max-width: 150px;
+}
+
+.col-comentario {
+    background-color: #d8caaf;
+    border: 1px solid #b0b0b0;
+    border-left: none;
+}
+
+.perfil {
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.imagem-perfil {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.perfil-nome {
+    background-color: #b18f69;
+    color: white;
+    border-radius: 0%;
+}
+
+.rounded-social-buttons {
+    text-align: center;
+  }
+  
+  .rounded-social-buttons .social-button {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 3.125rem;
+    height: 3.125rem;
+    border: 0.125rem solid transparent;
+    padding: 0;
+    text-decoration: none;
+    text-align: center;
+    color: #000000;
+    font-size: 1.5625rem;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 1.6875rem;
+    transition: all 0.5s ease;
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+  }
+  
+  .rounded-social-buttons .fa-whastapp, .fa-facebook-f, .fa-instagram {
+    font-size: 25px;
+  }
+  
+  .rounded-social-buttons .social-button.instagram {
+    background: #d8caaf;
+  }
+  .rounded-social-buttons .social-button.whatsapp {
+    background: #d8caaf;
+  }
+  .rounded-social-buttons .social-button.facebook {
+    background: #d8caaf;
+  }
