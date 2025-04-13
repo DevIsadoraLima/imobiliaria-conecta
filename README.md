@@ -6,6 +6,12 @@ Este repositório contém o website desenvolvido para a **Conecta Realizações 
 
 O site foi desenvolvido em grupo com base em um problema identificado em parceria com a imobiliária: **a ausência de um site institucional**. A solução proposta foi o desenvolvimento de um website moderno, responsivo e funcional, capaz de transmitir os valores da empresa e facilitar a comunicação com seus clientes.
 
+## 🌐 Acesse o Site
+
+Você pode acessar o site publicado clicando no link abaixo:
+
+🔗 [Conecta Realizações Imobiliárias](https://devisadoralima.github.io/imobiliaria-conecta/index.html)
+
 ## 🛠 Tecnologias Utilizadas
 
 - **HTML5** — Estruturação do conteúdo  
